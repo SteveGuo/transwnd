@@ -1,3 +1,11 @@
+//
+//  main.cpp
+//  transwnd
+//
+//  Created by SteveGuo on 4/28/16.
+//  Copyright (c) 2016 SteveGuo. All rights reserved.
+//
+
 #ifndef UNICODE
 #define UNICODE
 #endif 
