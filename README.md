@@ -1,3 +1,3 @@
 # transwnd
-A Windows utility to make window transparent
-![Alternative text](/img/1.png "Optional title")
+A Windows utility to make a window transparent
+![Image is not loaded](/img/1.png "cmd.exe with transparency!")
