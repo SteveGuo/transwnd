@@ -11,7 +11,6 @@
 #endif 
 
 #include <windows.h>
-#include <Psapi.h>
 #include <iostream>
 
 
